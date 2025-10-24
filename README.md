@@ -124,7 +124,9 @@ npx expo start
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob uma licença personalizada que permite uso e modificação privada, mas **proíbe uso comercial**. Veja o arquivo [LICENSE](https://github.com/juletopi/PontuaDev_Project/blob/master/LICENSE) para mais detalhes.
+
+Para uso comercial deste software, entre em contato com o autor em juliocezarpvh@hotmail.com.
 
 <div align="left">
   <h6><a href="#contentcove"> Voltar para o início ↺</a></h6>
